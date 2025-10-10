@@ -1,4 +1,4 @@
-# 🧠 Taller de Programación – UBA 2025  
+# Taller de Programación – UBA 2025  
 ### Grupo X — Facultad de Ciencias Económicas (Universidad de Buenos Aires)
 
 Repositorio oficial del **Grupo X** para la asignatura **Taller de Programación (UBA, 2025)**.  
