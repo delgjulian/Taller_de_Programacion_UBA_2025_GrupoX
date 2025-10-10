@@ -12,7 +12,12 @@ Familiarizarse con la base de la **Encuesta Permanente de Hogares (EPH)**, reali
 ## 📁 Contenido
 - `Program_TP1_GrupoX.ipynb` → Notebook principal con el código y los gráficos.  
 - `Program_TP1_GrupoX.pdf` → Informe final en PDF (máximo 5 páginas).  
-- Carpeta `datos/` → Contiene las bases de microdatos EPH (2005 y 2025) y la tabla de equivalencias de adultos.  
+- Carpeta `datos/` → Contiene las bases de microdatos EPH (2005 y 2025) y la tabla de equivalencias de adultos.
+
+- 🗂️ La base completa `usu_individual_T105.dta` (más de 25 MB) 
+debe descargarse desde el sitio oficial del INDEC:  
+👉 [EPH Microdatos 2005 – Primer trimestre](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos)
+
 
 ---
 
