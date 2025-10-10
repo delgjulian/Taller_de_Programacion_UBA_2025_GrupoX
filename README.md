@@ -9,9 +9,9 @@ Contiene los **trabajos prácticos (TP1, TP2, TP3, …)** desarrollados en **Pyt
 ## 👥 Integrantes
 | Nombre | Rol principal | Contacto |
 |---------|----------------|-----------|
-| Integrante 1 | Data Manager (descarga y limpieza de EPH) | correo@ejemplo.com |
-| Integrante 2 | Analista y visualización de datos | correo@ejemplo.com |
-| Integrante 3 | Redacción y revisión final | correo@ejemplo.com |
+| Alejandro Alcocer | Data Manager (descarga y limpieza de EPH) | correo@ejemplo.com |
+| Christian Campos | Analista y visualización de datos | correo@ejemplo.com |
+| Julián Delgadillo Marín | Redacción y revisión final | correo@ejemplo.com |
 
 > Cada commit en el repositorio debe incluir una descripción clara de la tarea realizada y el TP correspondiente.
 
