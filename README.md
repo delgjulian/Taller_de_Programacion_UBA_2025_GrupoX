@@ -10,7 +10,7 @@ Contiene los **trabajos prácticos (TP1, TP2, TP3, …)** desarrollados en **Pyt
 | Nombre | Rol principal | Contacto |
 |---------|----------------|-----------|
 | Alejandro Alcocer | Programador 1 | correo@ejemplo.com |
-| Christian Campos | Programador 2 | correo@ejemplo.com |
+| Christian Campos | Programador 2 | chr_campos@yahoo.com.ar |
 | Julián Delgadillo Marín | Programador 3 | jadelgadillomarin@gmail.com |
 
 > Cada commit en el repositorio debe incluir una descripción clara de la tarea realizada y el TP correspondiente.
