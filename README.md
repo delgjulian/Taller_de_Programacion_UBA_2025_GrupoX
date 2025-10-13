@@ -9,7 +9,7 @@ Contiene los **trabajos prácticos (TP1, TP2, TP3, …)** desarrollados en **Pyt
 ## 👥 Integrantes
 | Nombre | Rol principal | Contacto |
 |---------|----------------|-----------|
-| Alejandro Alcocer | Programador 1 | correo@ejemplo.com |
+| Alejandro Alcocer | Programador 1 | aj9alito@gmail.com |
 | Christian Campos | Programador 2 | chr_campos@yahoo.com.ar |
 | Julián Delgadillo Marín | Programador 3 | jadelgadillomarin@gmail.com |
 
