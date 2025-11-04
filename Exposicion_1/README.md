@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Descripción general
+##  Descripción general
 
 Esta exposición corresponde a la **Primera Exposición Grupal** del Taller de Programación.  
 El trabajo consistió en realizar un **análisis exploratorio de la Encuesta Mundial de Salud Escolar (EMSE 2018)**, enfocándose en los hábitos saludables y conductas de riesgo en adolescentes escolarizados de Argentina.
@@ -16,7 +16,7 @@ La presentación se elaboró en formato **Beamer (LaTeX)** e incluyó procesamie
 
 ---
 
-## 🧩 Estructura de la carpeta
+##  Estructura de la carpeta
 
 Exposicion_1/
 │
@@ -34,7 +34,7 @@ Exposicion_1/
 
 ---
 
-## 📚 Fuente de datos
+##  Fuente de datos
 
 - **Encuesta Mundial de Salud Escolar (EMSE 2018)**  
   Fuente: Ministerio de Salud de la Nación (Argentina)  
@@ -53,7 +53,7 @@ Exposicion_1/
 
 ---
 
-## 🧮 Contenidos de la exposición
+##  Contenidos de la exposición
 
 - Descripción general de la base EMSE 2018  
 - Distribución por sexo y edad  
@@ -66,7 +66,7 @@ Exposicion_1/
 
 ---
 
-## 🧠 Objetivo académico
+##  Objetivo académico
 
 El trabajo busca integrar las competencias del curso:
 1. Limpieza y estructuración de datos.  
@@ -76,7 +76,7 @@ El trabajo busca integrar las competencias del curso:
 
 ---
 
-## ⚙️ Herramientas utilizadas
+##  Herramientas utilizadas
 
 - **Python**: pandas, matplotlib, seaborn  
 - **LaTeX Beamer**: presentación académica  
@@ -84,12 +84,12 @@ El trabajo busca integrar las competencias del curso:
 
 ---
 
-## 🧾 Licencia
+##  Licencia
 
 El material se comparte con fines educativos bajo licencia **CC BY-NC-SA 4.0**  
 (Los datos pertenecen al Ministerio de Salud de la Nación – Argentina).
 
 ---
 
-📘 *Repositorio creado como parte del curso Taller de Programación – Maestría en Economía Aplicada (UBA, 2025).*
+ *Repositorio creado como parte del curso Taller de Programación – Maestría en Economía Aplicada (UBA, 2025).*
 
